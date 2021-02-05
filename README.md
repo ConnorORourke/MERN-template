@@ -12,7 +12,7 @@ Hello! This is a very basic MERN template I use when building applications. Ther
 
 ### Running the code
 
-- simpy clone the repo, go to the root directory and run _npm update && cd client && npm update_ to install packages
+- simpy clone the repo, go to the project root and run _npm update && cd client && npm update_ to install packages
 - **running full app (prod)**: _npm run start_ at project root
 - **running full app (dev)**: _npm run build-and-start_ at project root
 - **running individually (dev)**: _npm run start-alternate_ at project root, _npm start_ in client
