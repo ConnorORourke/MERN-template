@@ -9,7 +9,7 @@ const staticRouter = () => {
   const router = express.Router();
   router.use(express.static(staticFilesRoot()));
   router.get("/", (req, res) => {
-    res.sendFile(path.join(staticFilesRoot(), "index.html"));
+    return res.sendFile(path.join(staticFilesRoot(), "index.html"));
   });
   return router;
 };
