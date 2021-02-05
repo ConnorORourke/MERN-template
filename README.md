@@ -4,6 +4,7 @@ Hello! This is a very basic MERN template I use when building applications. Ther
 
 ### Things to note
 
+- You will need to have Node installed to run the project
 - This template uses Create React App (CRA)
 - This template uses Mongoose, and assumes a connection to mongo ATLAS defined in _.env_. If you haven't used Atlas before, here's a useful [guide](https://docs.atlas.mongodb.com/getting-started)
 - Remember to add .env to the .gitignore file
