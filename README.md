@@ -1,6 +1,6 @@
 ### Welcome!
 
-Hello! This is a very basic MERN template I use when building applications. There are some projects which suit this style of template, and others that don't. I often completely re-write it, and wouldn't in a commercial setting, but it's a useful starting point for me and might be for you too :)
+Hello! This is a very basic MERN template I use when building applications. There are some projects which suit this style of template, and others that don't. I often completely re-write it, and wouldn't use it in a commercial setting, but it's a useful starting point for me and might be for you too :)
 
 ### Things to note
 
